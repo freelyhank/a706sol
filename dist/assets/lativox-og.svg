@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Lativox | Read wide. Record the signal."><title>Lativox | Read wide. Record the signal.</title><rect width="1200" height="630" fill="#08070f"/><defs>
+  <filter id="soft" x="-70%" y="-70%" width="240%" height="240%"><feGaussianBlur stdDeviation="14"/></filter>
+  <radialGradient id="auroraA" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#17b98d" stop-opacity=".55"/><stop offset="100%" stop-color="#17b98d" stop-opacity="0"/></radialGradient>
+  <radialGradient id="auroraB" cx="50%" cy="50%" r="50%"><stop offset="0%" stop-color="#a06bff" stop-opacity=".45"/><stop offset="100%" stop-color="#a06bff" stop-opacity="0"/></radialGradient>
+  <linearGradient id="beam" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#17b98d"/><stop offset="100%" stop-color="#4ff0c1"/></linearGradient>
+</defs><defs><pattern id="ogd" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#ffffff" fill-opacity="0.15"/></pattern></defs><circle cx="190" cy="60" r="460" fill="url(#auroraA)"/><circle cx="1080" cy="560" r="420" fill="url(#auroraB)"/><rect x="0" y="0" width="1200" height="630" fill="url(#ogd)"/>
+  
+    <rect x="60" y="46" width="58" height="58" rx="14" fill="#0d0c1a"/>
+    <rect x="60.5" y="46.5" width="57" height="57" rx="14" fill="none" stroke="#3a3770" stroke-width="1"/>
+    <g transform="translate(66.96000000000001 52.96) scale(0.44079999999999997)">
+    <clipPath id="mk67-53-44080"><path d="M50 9.5 84.5 29.4v39.8L50 89.1 15.5 69.2V29.4Z"/></clipPath>
+    <path d="M50 9.5 84.5 29.4v39.8L50 89.1 15.5 69.2V29.4Z" fill="none" stroke="#4ff0c1" stroke-width="15"/>
+    <g clip-path="url(#mk67-53-44080)"><path d="M25 75 75 25" stroke="#a06bff" stroke-width="11"/></g>
+  </g>
+  <text x="134" y="86" font-size="30" fill="#f5f2e9" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="3.4">LATIVOX</text>
+  <rect x="946" y="58" width="73.6" height="26" rx="13" fill="#4ff0c11a" stroke="#4ff0c14d"/><text x="957" y="76" font-size="12" fill="#4ff0c1" font-family="Consolas,monospace" letter-spacing="1.4">0x1237</text>
+  <text x="1140" y="76" font-size="12" fill="#4ff0c1" font-family="Consolas,monospace" letter-spacing="3.2" text-anchor="end">MAINNET</text>
+  <path d="M60 138h1080" fill="none" stroke="#1e1c39"/>
+  <text x="58" y="268" font-size="84" fill="#f5f2e9" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="-3">Read wide.</text>
+  <text x="58" y="356" font-size="84" fill="#4ff0c1" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="-3">Record the signal.</text>
+  <text x="62" y="420" font-size="21" fill="#a49fc4" font-family="Arial, Helvetica, sans-serif">An independent research atlas for Robinhood Chain markets.</text>
+  <polyline points="62.0,526.2 84.6,530.0 107.2,523.6 129.8,527.4 152.4,519.8 175.0,522.3 197.7,508.3 220.3,512.1 242.9,504.4 265.5,509.5 288.1,501.9 310.7,495.5 333.3,500.6 355.9,486.5 378.5,491.6 401.1,484.0 423.7,475.0 446.3,478.9 469.0,467.3 491.6,471.2 514.2,458.4 536.8,463.5 559.4,452.0 582.0,454.6" fill="none" stroke="#4ff0c1" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/><polyline points="62.0,528.6 84.6,521.8 107.2,530.0 129.8,525.9 152.4,510.8 175.0,514.9 197.7,505.4 220.3,512.2 242.9,497.2 265.5,501.3 288.1,509.5 310.7,499.9 333.3,487.6 355.9,494.4 378.5,478.0 401.1,486.2 423.7,471.2 446.3,480.7 469.0,475.3 491.6,467.1 514.2,475.3 536.8,457.5 559.4,462.9 582.0,452.0" fill="none" stroke="#a06bff" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <rect x="744" y="200" width="396" height="264" rx="14" fill="#12111f" stroke="#262446"/>
+  <text x="776" y="240" font-size="12" fill="#746e97" font-family="Consolas,monospace" letter-spacing="3.2">SAMPLE SET / FIVE ASSETS</text>
+  <text x="776" y="292" font-size="22" fill="#f5f2e9" font-family="Arial, Helvetica, sans-serif" font-weight="700">NVDAx</text><rect x="776" y="306" width="200" height="6" rx="3" fill="#ffffff1a"/><rect x="776" y="306" width="169.2" height="6" rx="3" fill="url(#beam)"/><text x="986" y="308" font-size="14" fill="#4ff0c1" text-anchor="end" font-family="Consolas,monospace">84.6</text>
+  <text x="776" y="348" font-size="22" fill="#f5f2e9" font-family="Arial, Helvetica, sans-serif" font-weight="700">ETH</text><rect x="776" y="362" width="200" height="6" rx="3" fill="#ffffff1a"/><rect x="776" y="362" width="162.6" height="6" rx="3" fill="url(#beam)"/><text x="986" y="364" font-size="14" fill="#4ff0c1" text-anchor="end" font-family="Consolas,monospace">81.3</text>
+  <text x="776" y="404" font-size="22" fill="#f5f2e9" font-family="Arial, Helvetica, sans-serif" font-weight="700">AAPLx</text><rect x="776" y="418" width="200" height="6" rx="3" fill="#ffffff1a"/><rect x="776" y="418" width="156.4" height="6" rx="3" fill="url(#beam)"/><text x="986" y="420" font-size="14" fill="#4ff0c1" text-anchor="end" font-family="Consolas,monospace">78.2</text>
+  <text x="776" y="452" font-size="13" fill="#746e97" font-family="Arial, Helvetica, sans-serif">Fixed examples, not live scores.</text>
+  <path d="M60 538h1080" fill="none" stroke="#1e1c39"/><text x="60" y="584" font-size="12" fill="#746e97" font-family="Consolas,monospace" letter-spacing="3.2">ROBINHOOD CHAIN PROTOTYPE / ILLUSTRATIVE DATA / NO ORDERS ARE SENT</text><text x="1140" y="584" font-size="15" fill="#4ff0c1" font-family="Arial, Helvetica, sans-serif" text-anchor="end" font-weight="700" letter-spacing="1.6">lativox.xyz</text></svg>

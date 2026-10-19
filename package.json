@@ -1,5 +1,5 @@
 {
-  "name": "chainquill-web",
+  "name": "lativox-web",
   "private": true,
   "version": "0.1.0",
   "type": "module",
@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "assets": "node scripts/render-assets.mjs"
+    "assets": "node scripts/render-assets.mjs",
+    "logo:explore": "node scripts/logo-explore.mjs && node scripts/logo-explore2.mjs && node scripts/logo-explore3.mjs && node scripts/logo-explore4.mjs && node scripts/logo-explore5.mjs"
   },
   "dependencies": {
     "@vitejs/plugin-vue": "latest",
@@ -19,4 +20,3 @@
     "sharp": "latest"
   }
 }
-
